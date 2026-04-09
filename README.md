@@ -29,7 +29,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Riddhi's Stats](https://github-readme-stats.vercel.app/api?username=riddhi18s&show_icons=true)
+![Riddhi's Stats](https://github.com/riddhi18s&show_icons=true)
 
 ---
 
