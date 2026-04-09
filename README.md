@@ -13,14 +13,33 @@
 
 ---
 
+
 ## 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/C-blue)
+![Java](https://img.shields.io/badge/Java-red)
 ![Python](https://img.shields.io/badge/Python-yellow)
-![MySQL](https://img.shields.io/badge/MySQL-orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+![AI](https://img.shields.io/badge/AI-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange)
 
 ---
 
 ## 📌 Projects
+
+### 🎮 Car Racing Game
+- Developed a basic racing game with interactive controls
+- Implemented collision detection and scoring system
+- Focused on game logic and user interaction
+
+---
+
+### ❌⭕ Tic Tac Toe Game
+- Built a 2-player game with win/draw detection
+- Implemented game logic using efficient conditions
+- Clean and simple UI for better usability
+
+---
+
 ### 💬 UDP Chat Server
 - Built using C (Socket Programming)
 - Supports multiple clients
